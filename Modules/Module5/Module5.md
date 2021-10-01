@@ -71,11 +71,11 @@ print(f"Computer selected: {computerChoice}")
 Give a python example for each logic operator in the module image.
 
  - Answers:
-   - OR: x=54 If(x=54 or x=45)
+   - OR: x=54 If(x=54 or x=45):
           This is true becuse its chooses either option
-   - AND:x=5 If(x>4 and x<6)
+   - AND:x=5 If(x>4 and x<6):
         This is true because x is bigger than 4 but smaller then 6
-   - NOT: If not (x=83 and x==83)
+   - NOT: If not (x=83 and x==83):
       This is false because its negating the entire operation
 
 
