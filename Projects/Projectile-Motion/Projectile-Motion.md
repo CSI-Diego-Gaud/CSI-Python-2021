@@ -44,7 +44,7 @@
 <br>
 
 ## Convert your script into a function `(10pts)`
-* Convert all tha variables you have created into parameters.
+* Convert all the variables you have created into parameters.
   * Their data types must be defined.
 
 <br>
